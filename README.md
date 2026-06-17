@@ -11,8 +11,8 @@ A 2D silhouette **ninja action‑platformer** written from scratch in **C++ & Op
 > _Add your own captures here, e.g.:_
 >
 > ```markdown
-> ![Bamboo forest](docs/bamboo.png)
-> ![Boss fight](docs/boss.png)
+> <img width="1857" height="982" alt="image" src="https://github.com/user-attachments/assets/936d1ddb-349f-40c3-aac7-c555d453c21b" />
+
 > ```
 >
 > _Tip: a short gameplay GIF/video at the top makes the repo far more engaging._
