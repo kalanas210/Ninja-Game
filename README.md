@@ -14,7 +14,7 @@ A 2D silhouette **ninja action‑platformer** written from scratch in **C++ & Op
 > <img width="1857" height="982" alt="image" src="https://github.com/user-attachments/assets/936d1ddb-349f-40c3-aac7-c555d453c21b" />
 
 > ```
->
+>https://github-production-user-asset-6210df.s3.amazonaws.com/171330421/609039707-936d1ddb-349f-40c3-aac7-c555d453c21b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260617%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260617T071556Z&X-Amz-Expires=300&X-Amz-Signature=3acb545458697216f53a5102463497d335ec4f3de1ea0dc68876fcd40e222dde&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng
 > _Tip: a short gameplay GIF/video at the top makes the repo far more engaging._
 
 ---
