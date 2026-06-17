@@ -1,0 +1,23 @@
+# ---- build intermediates ----
+*.o
+*.obj
+*.a
+*.lib
+*.ilk
+*.exp
+*.pdb
+
+# Keep the prebuilt game (ninja.exe) tracked so it's instantly playable.
+# To make this a source-only repo instead, delete ninja.exe and uncomment:
+# *.exe
+
+# ---- editors / IDE ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
